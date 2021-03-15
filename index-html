@@ -1,0 +1,72 @@
+
+
+    <head>
+        <title>Google Clone</title>
+        <link href="style.css" 
+rel="stylesheet" />
+</head>
+ 
+<body>
+    <div id="nav">
+        <a 
+    class="toplink">Gmail</a>
+        <a 
+    class="toplink">Images</a>
+
+             <a class="topimage"></a>
+        </div>
+
+                <div id="center">
+                
+    <div id="logo"> 
+        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google"/>
+        
+        </div>
+        
+        <div id="searchbarcontainer">
+        <input id="searchbar"
+        type="text">
+
+        </div>
+
+        <div id="button">
+        <div class="button">
+        Google Search
+        </div>
+            <div class="button">
+                I'm Feeling Lucky
+            </div>
+            
+        
+        </div>
+            </div>
+        
+                
+                
+                <div id="links">
+                    Google is offered in <a 
+                href="">x</a> <a href="">y</a> 
+                </div>
+    </body>        
+                
+
+
+   
+    
+    
+    
+    <div id="footer-content">
+        <footer class="footer">
+
+       
+
+
+
+    <a>Link 1</a> <a>Link 2</a>
+</footer>
+    </div>
+
+    
+
+    
+</html>
